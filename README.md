@@ -95,10 +95,12 @@ Chrome's own NVIDIA-on-Mac blocklist. Things to test, one at a time: Graphite of
 Report it through the driver's issue tracker with the 1401 app's *Send logs* ID. Don't paste AI-written reports there.
 
 ## Screenshots
-| | |
-|---|---|
-| ![1](screenshots/1.png) | ![2](screenshots/2.png) |
-| ![3](screenshots/3.png) | ![4](screenshots/4.png) |
+| |
+|---|
+| ![1](screenshots/1.png) |
+| ![2](screenshots/2.png) |
+| ![3](screenshots/3.png) |
+| ![4](screenshots/4.png) |
 
 ## Credits
 Acidanthera (OpenCore, Lilu, VirtualSMC, AppleALC, NVMeFix, RestrictEvents), Dortania guide, AMD_Vanilla patches,
